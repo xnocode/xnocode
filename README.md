@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xnocode\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/xnocode/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=xnocode\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/xnocode/github-readme-stats#responsive-card-theme#gh-light-mode-only)
