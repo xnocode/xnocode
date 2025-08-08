@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xnocode\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/xnocode/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=xnocode\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/xnocode/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+| <a href="https://github.com/xnocode/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xnocode&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only&theme=default#gh-light-mode-only&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/xnocode/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnocode&layout=compact&theme=dark#gh-dark-mode-only&hide_border=true" /></a> |
+| ------------- | ------------- |
