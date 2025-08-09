@@ -18,17 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-<!-- START_SECTION:time-->
-
-
-<!-- END_SECTION:time -->
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 📊 **This Week I Spent My Time On** 
 <!--START_SECTION:waka-->
 
