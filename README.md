@@ -38,15 +38,3 @@ Java   6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ![](https://komarev.com/ghpvc/?username=xnocode&style=for-the-badge)
 
-<!--START_SECTION:total-->
-
-```txt
-From: 07 August 2025 - To: 09 August 2025
-
-Total Time: 16 mins
-
-C++    10 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.86 %
-Java   6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.14 %
-```
-
-<!--END_SECTION:total-->
