@@ -47,5 +47,12 @@ C++   5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 <!--END_SECTION:waka-->
 
+<source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=crt&theme=crt&color=%23ffffffFF">
+<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=crt&theme=crt&color=%23ffffffFF">
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xnocode&theme=high-contrast)
+![xnocode's Stats](https://github-readme-stats.vercel.app/api?username=xnocode&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![xnocode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xnocode&theme=highcontrast&hide_border=false)
+![xnocode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xnocode&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+
+
