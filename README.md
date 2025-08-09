@@ -36,6 +36,7 @@ Java   6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
 </picture>
 
-
-
 ![](https://komarev.com/ghpvc/?username=xnocode&style=for-the-badge)
+
+<!--START_SECTION:total-->
+<!--END_SECTION:total-->
