@@ -20,7 +20,8 @@ jobs:
           SHOW_TIME: true 
           SHOW_MASKED_TIME: true 
           STOP_AT_OTHER: true 
-          BLOCKS: ░▒▓█
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: all_time
           
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics 
