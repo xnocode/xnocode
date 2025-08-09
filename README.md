@@ -54,8 +54,6 @@ C++   5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 </picture>
 
 
-![](https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+90%25+50%25%2C+%233ddb82+0%25%2C+%23f8c025+50%25%2C+%231c1c45+100%25%29&color=%23ffffffFF)
-
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xnocode&theme=high-contrast)
 ![xnocode's Stats](https://github-readme-stats.vercel.app/api?username=xnocode&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 ![xnocode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xnocode&theme=highcontrast&hide_border=false)
