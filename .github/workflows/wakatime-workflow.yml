@@ -1,9 +1,13 @@
-name: Waka Readme
 
+name: Waka Readme
 on:
+  push:
+    branches:
+      - master
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
@@ -13,15 +17,3 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### content
-          SHOW_TITLE: true 
-          SECTION_NAME: waka 
-          LANG_COUNT: 10 
-          SHOW_TIME: true 
-          SHOW_MASKED_TIME: true 
-          STOP_AT_OTHER: true 
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          TIME_RANGE: all_time
-          
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics 
