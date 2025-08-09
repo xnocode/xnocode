@@ -55,5 +55,4 @@ C++   5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 
 
-
-![](https://komarev.com/ghpvc/?username=xnocode)
+![](https://komarev.com/ghpvc/?username=xnocode&style=for-the-badge)
