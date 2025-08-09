@@ -12,13 +12,10 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           COMMIT_BY_ME: "False"
-          COMMIT_MESSAGE: "Updated dev metrics"
-          COMMIT_USERNAME: "guilyx"
-          COMMIT_EMAIL: "erwin.lejeune15@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: "wakastatus" 
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "True"
+          SHOW_OS: "True"
           SHOW_UPDATED_DATE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "False"
@@ -29,3 +26,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_SHORT_INFO: "True"
+  
