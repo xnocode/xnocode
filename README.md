@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++    10 mins         ███████████████▒░░░░░░░░░   60.86 %
-Java   6 mins          █████████▓░░░░░░░░░░░░░░░   39.14 %
+From: 02 August 2025 - To: 09 August 2025
+
+C++    10 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.86 %
+Java   6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.14 %
 ```
 
 <!--END_SECTION:waka-->
