@@ -1,12 +1,12 @@
 name: generate-and-upload-card
-
 on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
   push:
     branches:
     - master
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 1 * * *'
 
 jobs:
   generate:
