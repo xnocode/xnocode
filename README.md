@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
+
+![](https://raw.githubusercontent.com/xnocode/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/xnocode/github-stats-transparent/output/generated/languages.svg)
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
