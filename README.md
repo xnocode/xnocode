@@ -17,12 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
 
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
 
 <!-- START_SECTION:time-->
 
