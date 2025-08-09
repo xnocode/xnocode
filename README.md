@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
+From: 07 August 2025 - To: 08 August 2025
+
+Total Time: 5 mins
+
 C++   5 mins          █████████████████████████   100.00 %
 ```
 
