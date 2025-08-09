@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
 
-![](https://raw.githubusercontent.com/xnocode/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/xnocode/github-stats-transparent/output/generated/languages.svg)
+<!-- START_SECTION:time-->
+
+
+<!-- END_SECTION:time -->
 
 ### :zap: Recent Activity
 
