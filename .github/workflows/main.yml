@@ -20,8 +20,8 @@ jobs:
         uses: LuciNyan/pixel-profile/action@main
         with:
           outputs: |
-            dist/github-stats?username=xnocode&screen_effect=true&theme=fuji&dithering=true&hide=avatar
-            dist/github-stats-dark?username=xnocode&theme=crt
+            dist/github-stats?username=LuciNyan&screen_effect=true&theme=fuji&dithering=true&hide=avatar
+            dist/github-stats-dark?username=LuciNyan&theme=crt
       
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
