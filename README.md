@@ -37,8 +37,3 @@ Java   36 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
 ![](https://komarev.com/ghpvc/?username=xnocode&style=for-the-badge)
 
-
-  <a href="https://monkeytype.com/profile/xnocode">
-        <img src="https://raw.githubusercontent.com/xnocode/workflows/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-    </a>
-                        
