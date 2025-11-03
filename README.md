@@ -37,3 +37,5 @@ No activity tracked
 
 ![](https://komarev.com/ghpvc/?username=xnocode&style=for-the-badge)
 
+📚 [Reading List BookShelf](https://www.notion.so/2a07af96c1c8808a82aaee45f1881da2?v=2a07af96c1c881998adc000c5bc0e446&source=copy_link)
+
