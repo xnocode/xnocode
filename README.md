@@ -59,4 +59,6 @@ JavaScript   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Naruto: Shippuden](https://anilist.co/anime/1735) (12:33 18 November 2025)
+
 <!-- ANILIST_ACTIVITY:end -->
