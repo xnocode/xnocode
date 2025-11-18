@@ -57,5 +57,6 @@ JavaScript   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### 💀 Animes Corner
 
-<!-- ANILIST_ANIME:START -->
-<!-- ANILIST_ANIME:END -->
+<!-- ANILIST_ACTIVITY:start -->
+
+<!-- ANILIST_ACTIVITY:end -->
