@@ -38,7 +38,7 @@ JavaScript   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
 </picture>
 
-![](https://komarev.com/ghpvc/?username=xnocode&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=xnocode&abbreviated=true)
 
 📚 [Reading List BookShelf](https://www.notion.so/2a07af96c1c8808a82aaee45f1881da2?v=2a07af96c1c881998adc000c5bc0e446&source=copy_link)
 
