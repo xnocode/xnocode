@@ -14,5 +14,4 @@ jobs:
       - name: AniList readme workflow
         uses: pxseu/anilist-readme@senpai # latest version
         with:
-          user_id: YOUR_USER_ID # or
           user_name: "xnocode"
