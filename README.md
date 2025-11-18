@@ -40,5 +40,17 @@ JavaScript   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ![](https://komarev.com/ghpvc/?username=xnocode&abbreviated=true)
 
-📚 [Reading List BookShelf](https://www.notion.so/2a07af96c1c8808a82aaee45f1881da2?v=2a07af96c1c881998adc000c5bc0e446&source=copy_link)
-
+### 📖 The Reading Corner 
+<table> 
+  <tr> 
+    <td align="center"> <img src="https://m.media-amazon.com/images/I/51CvWjB3EML._SY342_.jpg" width="100px" alt=""/><br/> <sub>Duranta Eagle</sub> </td> 
+    <td align="center"> <img src="https://m.media-amazon.com/images/I/61jl29eQPSL._SY425_.jpg" width="100px" alt=""/><br/> <sub>Dracula</sub> </td> 
+    <td align="center"> <img src="https://m.media-amazon.com/images/I/71YgZYaQGRL._SY466_.jpg" width="100px" alt=""/><br/> <sub>The Mystery of Marie Rogêt</sub> </td> 
+    <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1633369977i/59177321.jpg" width="100px" alt=""/><br/> <sub>The Philosophers' Stone</sub> </td> 
+    
+ </tr> 
+ 
+  <!-- Second row --> 
+  <!--
+<tr> <td align="center"> <img src="BOOK_IMAGE_URL_9" width="100px" alt=""/><br/> <sub>Book Name 9</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_10" width="100px" alt=""/><br/> <sub>Book Name 10</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_11" width="100px" alt=""/><br/> <sub>Book Name 11</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_12" width="100px" alt=""/><br/> <sub>Book Name 12</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_13" width="100px" alt=""/><br/> <sub>Book Name 13</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_14" width="100px" alt=""/><br/> <sub>Book Name 14</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_15" width="100px" alt=""/><br/> <sub>Book Name 15</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_16" width="100px" alt=""/><br/> <sub>Book Name 16</sub> </td> </tr> </table>
+ --> 
