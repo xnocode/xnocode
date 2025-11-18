@@ -56,5 +56,8 @@ JavaScript   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <tr> <td align="center"> <img src="BOOK_IMAGE_URL_9" width="100px" alt=""/><br/> <sub>Book Name 9</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_10" width="100px" alt=""/><br/> <sub>Book Name 10</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_11" width="100px" alt=""/><br/> <sub>Book Name 11</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_12" width="100px" alt=""/><br/> <sub>Book Name 12</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_13" width="100px" alt=""/><br/> <sub>Book Name 13</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_14" width="100px" alt=""/><br/> <sub>Book Name 14</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_15" width="100px" alt=""/><br/> <sub>Book Name 15</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_16" width="100px" alt=""/><br/> <sub>Book Name 16</sub> </td> </tr>
  --> 
 
-### 💀 Animes Corner
-![AniList](https://kenndeclouv.netlify.app/animelist?username=xnocode)
+<details> <summary> <h3> 💀 Animes Corner </h3> </summary>
+<!-- ANILIST_ACTIVITY:start -->
+
+<!-- ANILIST_ACTIVITY:end -->
+</details>
