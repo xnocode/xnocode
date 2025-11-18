@@ -56,9 +56,4 @@ JavaScript   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
  --> 
 
 ### 💀 Animes Corner
-
-<!-- ANILIST_ACTIVITY:start -->
-
--   📺 Completed [Naruto: Shippuden](https://anilist.co/anime/1735) (17:03 18 November 2025)
-
-<!-- ANILIST_ACTIVITY:end -->
+![AniList](https://kenndeclouv.netlify.app/animelist?username=xnocode)
