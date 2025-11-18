@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 
+![](https://komarev.com/ghpvc/?username=xnocode&abbreviated=true)
 
 
 
@@ -38,7 +39,7 @@ JavaScript   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
 </picture>
 
-![](https://komarev.com/ghpvc/?username=xnocode&abbreviated=true)
+
 
 ### 📖 The Reading Corner 
 <table> 
