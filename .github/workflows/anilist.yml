@@ -1,17 +1,18 @@
+name: AniList readme workflow
 on:
   schedule:
-    # every week
-    - cron: 0 0 * * 0
-
-  workflow_dispatch:
+    # Runs every hour
+    - cron: "0 * * * *"
+  workflow_dispatch: # for manual debuging
 
 jobs:
-  update_animes:
+  update-readme-with-anilist:
+    name: Update this repo's README with latest AniList activites
     runs-on: ubuntu-latest
-    name: Updates README Anime List
     steps:
-      - uses: actions/checkout@v2
-      - uses: xnocode/anilist-animes-action@v1.1.0
+      - uses: actions/checkout@v4
+      - name: AniList readme workflow
+        uses: pxseu/anilist-readme@senpai # latest version
         with:
-          ANILIST_USERNAME: 'xnocode'
-          HEADER_TITLE: "xnocode's cool awesome Animes"
+          user_id: YOUR_USER_ID # or
+          user_name: "xnocode"
