@@ -59,5 +59,11 @@ JavaScript   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ### 💀 Animes Corner
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [One-Punch Man Season 2](https://anilist.co/anime/97668) (19:04 18 November 2025)
+-   📺 Completed [One-Punch Man](https://anilist.co/anime/21087) (19:04 18 November 2025)
+-   📺 Completed [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (17:24 18 November 2025)
+-   📺 Completed [SPY x FAMILY](https://anilist.co/anime/140960) (17:23 18 November 2025)
+-   📺 Watched episode 920 of [ONE PIECE](https://anilist.co/anime/21) (17:22 18 November 2025)
+
 <!-- ANILIST_ACTIVITY:end -->
 
