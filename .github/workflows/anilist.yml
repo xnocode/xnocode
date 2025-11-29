@@ -10,8 +10,14 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: AniList readme workflow
-        uses: pxseu/anilist-readme@v1.1.4
+        uses: pxseu/anilist-readme@senpai
         with:
           user_id: 7575423
+          timezone: "Asia/Dhaka"
+          max_post_count: 50
+          preferred_language: english
+          date_format: "{h}:{m} {D} {MW} {Y}"
+          
+          
