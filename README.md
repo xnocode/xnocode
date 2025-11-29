@@ -38,24 +38,33 @@ Java   2 hrs 46 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
 
 
-### 📖 The Reading Corner 
-<table> 
-  <tr> 
-    <td align="center"> <img src="https://m.media-amazon.com/images/I/51CvWjB3EML._SY342_.jpg" width="100px" alt=""/><br/> <sub>Duranta Eagle</sub> </td> 
-    <td align="center"> <img src="https://m.media-amazon.com/images/I/61jl29eQPSL._SY425_.jpg" width="100px" alt=""/><br/> <sub>Dracula</sub> </td> 
-    <td align="center"> <img src="https://m.media-amazon.com/images/I/71YgZYaQGRL._SY466_.jpg" width="100px" alt=""/><br/> <sub>The Mystery of Marie Rogêt</sub> </td> 
-    <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1633369977i/59177321.jpg" width="100px" alt=""/><br/> <sub>The Philosophers' Stone</sub> </td> 
-    <td align="center"> <img src="https://m.media-amazon.com/images/I/51xiB72JiHL._SY385_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Naval Treaty</sub> </td>
-    <td align="center"> <img src="https://m.media-amazon.com/images/I/51IWerpjMGL._SY466_.jpg" width="100px" alt=""/><br/> <sub>Hamlet</sub> </td>
-    <td align="center"> <img src="https://m.media-amazon.com/images/I/91kviUpWwNL._SY342_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Devil's Foot</sub> </td>    
-    
- </tr> 
- </table> 
-  <!-- Second row --> 
-  <!--
-<tr> <td align="center"> <img src="BOOK_IMAGE_URL_9" width="100px" alt=""/><br/> <sub>Book Name 9</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_10" width="100px" alt=""/><br/> <sub>Book Name 10</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_11" width="100px" alt=""/><br/> <sub>Book Name 11</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_12" width="100px" alt=""/><br/> <sub>Book Name 12</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_13" width="100px" alt=""/><br/> <sub>Book Name 13</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_14" width="100px" alt=""/><br/> <sub>Book Name 14</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_15" width="100px" alt=""/><br/> <sub>Book Name 15</sub> </td> <td align="center"> <img src="BOOK_IMAGE_URL_16" width="100px" alt=""/><br/> <sub>Book Name 16</sub> </td> </tr>
- --> 
+### 📖 The Reading Corner
+
+<details>
+  <summary> ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა open shelf </summary>
+
+  <table> 
+    <tr> 
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/51CvWjB3EML._SY342_.jpg" width="100px" alt=""/><br/> <sub>Duranta Eagle</sub> </td> 
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/61jl29eQPSL._SY425_.jpg" width="100px" alt=""/><br/> <sub>Dracula</sub> </td> 
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/71YgZYaQGRL._SY466_.jpg" width="100px" alt=""/><br/> <sub>The Mystery of Marie Rogêt</sub> </td> 
+      <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1633369977i/59177321.jpg" width="100px" alt=""/><br/> <sub>The Philosophers' Stone</sub> </td> 
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/51xiB72JiHL._SY385_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Naval Treaty</sub> </td>
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/51IWerpjMGL._SY466_.jpg" width="100px" alt=""/><br/> <sub>Hamlet</sub> </td>
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/91kviUpWwNL._SY342_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Devil's Foot</sub> </td>    
+    </tr> 
+  </table>
+
+</details>
+
 
 ### 💀 Animes Corner
+<details>
+  <summary>(´｡• ᵕ •｡`) dive into anime world</summary>
+
+<!-- ANILIST_ACTIVITY:start -->
+
+<!-- ANILIST_ACTIVITY:end -->
+</details>
 
 
