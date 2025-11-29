@@ -60,7 +60,7 @@ Java   2 hrs 46 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
 ### 💀 Animes Corner
 <details>
-  <summary>(´｡• ᵕ •｡`) dive into anime world</summary>
+  <summary>(´｡• ᵕ •｡`) dive into my recent anime world</summary>
 
 <!-- ANILIST_ACTIVITY:start -->
 
