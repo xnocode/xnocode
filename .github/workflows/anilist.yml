@@ -15,9 +15,4 @@ jobs:
         uses: pxseu/anilist-readme@senpai
         with:
           user_id: 7575423
-          timezone: "UTC+06:00"
-          max_post_count: 50
-          preferred_language: english
-          date_format: "{h}:{m} {D} {MW} {Y}"
-          
-          
+          max_post_count: 5
