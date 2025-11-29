@@ -64,6 +64,7 @@ Java   2 hrs 46 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 921 of [ONE PIECE](https://anilist.co/anime/21) (20:49 29 November 2025)
 -   📺 Completed [JUJUTSU KAISEN](https://anilist.co/anime/113415) (20:47 29 November 2025)
 -   📺 Watched episode 9 of [My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!](https://anilist.co/anime/184322) (20:10 29 November 2025)
 -   📺 Watched episode 9 of [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (19:36 29 November 2025)
