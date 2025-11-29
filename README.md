@@ -1,7 +1,5 @@
 ## Hi there 👋 
-![](https://komarev.com/ghpvc/?username=xnocode&abbreviated=true)
-
-
+![](https://komarev.com/ghpvc/?username=xnocode&abbreviated=true) 
 
 <!--
 **xnocode/xnocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +27,6 @@ Java   2 hrs 46 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ```
 
 <!--END_SECTION:waka-->
-
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xnocode/xnocode/output/github-stats.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xnocode/xnocode/output/github-stats-dark.png">
@@ -37,6 +34,19 @@ Java   2 hrs 46 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 </picture>
 
 
+
+### 📈 Coding profiles stats
+<details>
+  <summary>(´｡• ᵕ •｡`) dive into my cp contest world</summary>
+  
+  ![Badge](https://cp-logo.vercel.app/codeforces/xnocode)
+  ![Badge](https://cp-logo.vercel.app/yukicoder/xnocode)
+  ![Badge](https://cp-logo.vercel.app/atcoder/xnocoder)
+  ![Badge](https://cp-logo.vercel.app/topcoder/xnocode)
+  ![Badge](https://cp-logo.vercel.app/leetcode/xnocode)
+  ![Badge](https://cp-logo.vercel.app/codechef/xnocode)
+  
+  </details>
 
 ### 📖 The Reading Corner
 
