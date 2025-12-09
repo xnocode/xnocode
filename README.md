@@ -42,7 +42,6 @@ No activity tracked
   ![Badge](https://cp-logo.vercel.app/codeforces/xnocode)
   ![Badge](https://cp-logo.vercel.app/yukicoder/xnocode)
   ![Badge](https://cp-logo.vercel.app/atcoder/xnocoder)
-  ![Badge](https://cp-logo.vercel.app/topcoder/xnocode)
   ![Badge](https://cp-logo.vercel.app/leetcode/xnocode)
   ![Badge](https://cp-logo.vercel.app/codechef/xnocode)
   
