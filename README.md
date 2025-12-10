@@ -34,7 +34,12 @@ No activity tracked
 </picture>
 
  <!-- LANGUAGES BREAKDOWN START -->
- 
+```
+[ LANGUAGES BREAKDOWN ]
+
+
+[ TOTAL LINES OF CODE: 0 ]
+```
  <!-- LANGUAGES BREAKDOWN END -->
 
 
