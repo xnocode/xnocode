@@ -48,7 +48,7 @@ jobs:
           # Run cloc to analyze lines of code, excluding non-source code files
           echo "Calculating lines of code..."
           mkdir -p ../output
-          cloc . --exclude-ext=html,htm,css,json,md,markdown,xml,svg,scss,yaml,toml,csv,txt,yml,sass,lock,log,properties,HTML,HTM,CSS,JSON,MD,MARKDOWN,XML,SVG,SCSS,YAML,TOML,CSV,TXT,YML,SASS,LOCK,LOG,PROPERTIES --exclude-lang=XML,Properties,Maven,Gradle --json > ../output/cloc-output.json
+          cloc . --exclude-ext=html,htm,css,json,md,markdown,xml,svg,scss,yaml,toml,csv,txt,yml,sass,lock,log,properties, C++, C, c++, cc, cpp, cxx, pccHTML,HTM,CSS,JSON,MD,MARKDOWN,XML,SVG,SCSS,YAML,TOML,CSV,TXT,YML,SASS,LOCK,LOG,PROPERTIES --exclude-lang=XML,Properties,Maven,Gradle --json > ../output/cloc-output.json
 
       # Commit and push the updated cloc-output.json and README.md to the current branch
       - name: Commit and Push Output
