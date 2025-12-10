@@ -37,6 +37,7 @@ No activity tracked
 ```
 [ LANGUAGES BREAKDOWN ]
 
+                -->          0 lines
 
 [ TOTAL LINES OF CODE: 0 ]
 ```
