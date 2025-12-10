@@ -33,6 +33,9 @@ No activity tracked
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
 </picture>
 
+ <!-- LANGUAGES BREAKDOWN START -->
+ 
+ <!-- LANGUAGES BREAKDOWN END -->
 
 
 ### 📈 Coding profiles stats
