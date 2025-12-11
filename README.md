@@ -37,7 +37,8 @@ No activity tracked
 ```
 [ LANGUAGES BREAKDOWN ]
 
-Others       --> 873 lines
+C++             -->        708 lines
+Java            -->        165 lines
 
 [ TOTAL LINES OF CODE: 873 ]
 ```
