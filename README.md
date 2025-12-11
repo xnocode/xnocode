@@ -43,18 +43,6 @@ No activity tracked
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
- ## Project stats
-
-<!-- LANGUAGES BREAKDOWN START -->
-```
-[ LANGUAGES BREAKDOWN ]
-
-                -->          0 lines
-
-[ TOTAL LINES OF CODE: 0 ]
-```
-<!-- LANGUAGES BREAKDOWN END -->
-
 
 ### 📈 Coding profiles stats
 <details>
