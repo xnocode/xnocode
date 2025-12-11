@@ -43,6 +43,11 @@ No activity tracked
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
+ ## Project stats
+
+<!-- LANGUAGES BREAKDOWN START -->
+<!-- LANGUAGES BREAKDOWN END -->
+
 
 ### 📈 Coding profiles stats
 <details>
