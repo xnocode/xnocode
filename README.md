@@ -37,8 +37,9 @@ No activity tracked
 ```
 [ LANGUAGES BREAKDOWN ]
 
+Others       --> 873 lines
 
-[ TOTAL LINES OF CODE: 0 ]
+[ TOTAL LINES OF CODE: 873 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
