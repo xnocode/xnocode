@@ -40,7 +40,8 @@ Other   1 min           ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 [ LANGUAGES BREAKDOWN ]
 
-Others       --> 898 lines
+C++             -->        733 lines
+Java            -->        165 lines
 
 [ TOTAL LINES OF CODE: 898 ]
 ```
