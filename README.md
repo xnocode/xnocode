@@ -40,10 +40,10 @@ Lua     1 min           ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 [ LANGUAGES BREAKDOWN ]
 
-C++             -->        733 lines
+C++             -->        747 lines
 Java            -->        165 lines
 
-[ TOTAL LINES OF CODE: 898 ]
+[ TOTAL LINES OF CODE: 912 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
