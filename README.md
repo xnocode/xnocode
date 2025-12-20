@@ -71,9 +71,9 @@ Java            -->        165 lines
       <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1633369977i/59177321.jpg" width="100px" alt=""/><br/> <sub>The Philosophers' Stone</sub> </td> 
       <td align="center"> <img src="https://m.media-amazon.com/images/I/51xiB72JiHL._SY385_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Naval Treaty</sub> </td>
       <td align="center"> <img src="https://m.media-amazon.com/images/I/51IWerpjMGL._SY466_.jpg" width="100px" alt=""/><br/> <sub>Hamlet</sub> </td>
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/91kviUpWwNL._SY342_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Devil's Foot</sub> </td>   
     </tr>
     <tr>
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/91kviUpWwNL._SY342_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Devil's Foot</sub> </td>   
       <td align="center"> <img src="https://m.media-amazon.com/images/I/61cDxGe2YUL._SY385_.jpg" width="100px" alt=""/><br/> <sub>Crafting Interpreters</sub> </td> 
     </tr>
   
