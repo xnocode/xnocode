@@ -38,10 +38,10 @@ Other   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 [ LANGUAGES BREAKDOWN ]
 
-C++             -->        763 lines
+C++             -->        796 lines
 Java            -->        165 lines
 
-[ TOTAL LINES OF CODE: 928 ]
+[ TOTAL LINES OF CODE: 961 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
