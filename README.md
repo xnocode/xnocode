@@ -38,10 +38,10 @@ Git   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 [ LANGUAGES BREAKDOWN ]
 
-C++             -->        770 lines
+C++             -->        806 lines
 Java            -->        165 lines
 
-[ TOTAL LINES OF CODE: 935 ]
+[ TOTAL LINES OF CODE: 971 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
