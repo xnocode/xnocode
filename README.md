@@ -39,8 +39,9 @@ No activity tracked
 
 C++             -->        806 lines
 Java            -->        165 lines
+Python          -->         83 lines
 
-[ TOTAL LINES OF CODE: 971 ]
+[ TOTAL LINES OF CODE: 1,054 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
