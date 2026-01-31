@@ -28,6 +28,22 @@ Python   1 hr 54 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 <!--END_SECTION:waka-->
 
+## My Current Tasks
+
+<!-- TASKWARRIOR-ACTIVE:START -->
+<!-- TASKWARRIOR-ACTIVE:END -->
+
+<!-- TASKWARRIOR-NEXT:START -->
+<!-- TASKWARRIOR-NEXT:END -->
+
+<!-- TASKWARRIOR-PENDING:START -->
+<!-- TASKWARRIOR-PENDING:END -->
+
+<!-- TASKWARRIOR-COMPLETED:START -->
+<!-- TASKWARRIOR-COMPLETED:END -->
+
+<!-- TASKWARRIOR-STATS:START -->
+<!-- TASKWARRIOR-STATS:END -->
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xnocode/xnocode/output/github-stats.png">
