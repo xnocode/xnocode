@@ -1,0 +1,44 @@
+name: Update README with Tasks
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:  # Allows manual run
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Install TaskWarrior
+        run: sudo apt-get update && sudo apt-get install -y task
+
+      - name: Clone task data repo
+        run: git clone https://github.com/yourusername/taskwarrior-data.git taskdata  # If private, see note below
+
+      - name: Generate task report
+        run: |
+          cd taskdata
+          task list > ../tasks.txt  # Customize: 'task next' for urgent tasks
+          cd ..
+          # Format as Markdown list (optional)
+          sed -i '1d' tasks.txt  # Remove header if unwanted
+          sed -i 's/^/* /' tasks.txt  # Add bullets
+
+      - name: Update README
+        run: |
+          # Replace section between markers
+          sed -i '/<!-- tasks-start -->/,$d' README.md
+          echo "<!-- tasks-start -->" >> README.md
+          cat tasks.txt >> README.md
+          echo "<!-- tasks-end -->" >> README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Auto-update tasks in README" || exit 0  # Skip if no changes
+          git push
