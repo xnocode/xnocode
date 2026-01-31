@@ -27,6 +27,12 @@ Python   1 hr 54 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 <!--END_SECTION:waka-->
+
+## Current Tasks
+<!-- tasks-start -->
+
+<!-- tasks-end -->
+
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xnocode/xnocode/output/github-stats.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xnocode/xnocode/output/github-stats-dark.png">
