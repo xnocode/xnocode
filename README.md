@@ -40,10 +40,10 @@ C++      3 mins                ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [ LANGUAGES BREAKDOWN ]
 
 C++             -->        998 lines
-Python          -->        179 lines
+Python          -->        205 lines
 Java            -->        165 lines
 
-[ TOTAL LINES OF CODE: 1,342 ]
+[ TOTAL LINES OF CODE: 1,368 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
