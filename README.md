@@ -42,14 +42,14 @@ SCSS         34 mins               ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 [ LANGUAGES BREAKDOWN ]
 
-TypeScript      -->     12,622 lines
-C++             -->        998 lines
+TypeScript      -->     12,618 lines
+C++             -->      1,015 lines
 JavaScript      -->        644 lines
 Python          -->        351 lines
 Java            -->        165 lines
 Dockerfile      -->         10 lines
 
-[ TOTAL LINES OF CODE: 14,790 ]
+[ TOTAL LINES OF CODE: 14,803 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
