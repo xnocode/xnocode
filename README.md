@@ -1,4 +1,5 @@
 ## Hi there 👋 
+Second Brain: xnocode.github.io/second_brain/
 ![](https://komarev.com/ghpvc/?username=xnocode&abbreviated=true) 
 
 <!--
