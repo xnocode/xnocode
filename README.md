@@ -55,16 +55,7 @@ Dockerfile      -->         10 lines
 
 
 ### 📈 Coding profiles stats
-<details>
-  <summary>(´｡• ᵕ •｡`) dive into my cp contest world</summary>
-  
-  ![Badge](https://cp-logo.vercel.app/codeforces/xnocode)
-  ![Badge](https://cp-logo.vercel.app/yukicoder/xnocode)
-  ![Badge](https://cp-logo.vercel.app/atcoder/xnocoder)
-  ![Badge](https://cp-logo.vercel.app/leetcode/xnocode)
-  ![Badge](https://cp-logo.vercel.app/codechef/xnocode)
-  
-  </details>
+![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=xnocode&theme=transparent)
 
 ### 📖 The Reading Corner
 
