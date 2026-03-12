@@ -73,7 +73,8 @@ Dockerfile      -->         10 lines
     </tr>
     <tr>
       <td align="center"> <img src="https://m.media-amazon.com/images/I/91kviUpWwNL._SY342_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Devil's Foot</sub> </td>   
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/61cDxGe2YUL._SY385_.jpg" width="100px" alt=""/><br/> <sub>Crafting Interpreters</sub> </td> 
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/61cDxGe2YUL._SY385_.jpg" width="100px" alt=""/><br/> <sub>Crafting Interpreters</sub> </td>
+      <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg" width="100px" alt=""/><br/> <sub>The Alchemist</sub> </td>
     </tr>
   
   </table>
