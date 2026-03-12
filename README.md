@@ -1,5 +1,4 @@
 ## Hi there 👋 
-Second Brain: xnocode.github.io/second_brain/
 ![](https://komarev.com/ghpvc/?username=xnocode&abbreviated=true) 
 
 <!--
@@ -32,6 +31,7 @@ SCSS         34 mins               ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+✨ Second Brain: https://xnocode.github.io/second_brain/ (website v4)
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xnocode/xnocode/output/github-stats.png">
