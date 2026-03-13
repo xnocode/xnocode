@@ -76,6 +76,7 @@ Dockerfile      -->         10 lines
       <td align="center"> <img src="https://m.media-amazon.com/images/I/91kviUpWwNL._SY342_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Devil's Foot</sub> </td>   
       <td align="center"> <img src="https://m.media-amazon.com/images/I/61cDxGe2YUL._SY385_.jpg" width="100px" alt=""/><br/> <sub>Crafting Interpreters</sub> </td>
       <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg" width="100px" alt=""/><br/> <sub>The Alchemist</sub> </td>
+      <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1697505457i/195336050.jpg" width="100px" alt=""/><br/> <sub>Dark Psychology & Mind Control</sub> </td>
     </tr>
   
   </table>
