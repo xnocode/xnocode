@@ -50,9 +50,9 @@ Dockerfile      -->         10 lines
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
-
+ <!--
 ### 📈 Coding profiles stats
-![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=xnocode&theme=transparent)
+-->
 
 ### 📖 The Reading Corner
 
@@ -80,19 +80,5 @@ Dockerfile      -->         10 lines
 </details>
 
 
-### 💀 Animes Corner
-<details>
-  <summary>(´｡• ᵕ •｡`) dive into my recent anime world</summary>
-
-<!-- ANILIST_ACTIVITY:start -->
-
--   📺 Completed [Vinland Saga Season 2](https://anilist.co/anime/136430) (14:34 02 February 2026)
--   📺 Watched episode 2 of [JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://anilist.co/anime/172463) (09:13 12 January 2026)
--   📺 Watched episode 11 of [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (09:35 22 December 2025)
--   📺 Watched episode 10 of [SPY x FAMILY Season 3](https://anilist.co/anime/177937) (19:01 09 December 2025)
--   📺 Watched episode 7 of [One-Punch Man Season 3](https://anilist.co/anime/153800) (21:04 29 November 2025)
-
-<!-- ANILIST_ACTIVITY:end -->
-</details>
 
 
