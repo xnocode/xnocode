@@ -79,6 +79,4 @@ Dockerfile      -->         10 lines
 
 </details>
 
-![Metrics](/github-metrics.svg)
-
 
