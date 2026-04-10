@@ -79,4 +79,9 @@ Dockerfile      -->         10 lines
 
 </details>
 
+<details>
+  <summary> cp-profiles </summary>
 
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=xnocode&theme=github_dark&disable_animations=true&show_icons=true&force_username=true)](https://codeforces.com/profile/xnocode)
+
+</details>
