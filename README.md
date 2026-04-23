@@ -35,21 +35,6 @@ Python   8 mins                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
 </picture>
 
- <!-- LANGUAGES BREAKDOWN START -->
-```
-[ LANGUAGES BREAKDOWN ]
-
-TypeScript      -->     12,619 lines
-C++             -->      1,015 lines
-JavaScript      -->        644 lines
-Python          -->        351 lines
-Java            -->        165 lines
-Dockerfile      -->         10 lines
-
-[ TOTAL LINES OF CODE: 14,804 ]
-```
- <!-- LANGUAGES BREAKDOWN END -->
-
  <!--
 ### 📈 Coding profiles stats
 -->
