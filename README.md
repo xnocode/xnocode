@@ -1,49 +1,33 @@
-<div align="center">
+## Hi there 👋 
+![](https://komarev.com/ghpvc/?username=xnocode&abbreviated=true) 
 
-```
-██╗  ██╗███╗   ██╗ ██████╗  ██████╗ ██████╗ ██████╗ ███████╗
-╚██╗██╔╝████╗  ██║██╔═══██╗██╔════╝██╔═══██╗██╔══██╗██╔════╝
- ╚███╔╝ ██╔██╗ ██║██║   ██║██║     ██║   ██║██║  ██║█████╗  
- ██╔██╗ ██║╚██╗██║██║   ██║██║     ██║   ██║██║  ██║██╔══╝  
-██╔╝ ██╗██║ ╚████║╚██████╔╝╚██████╗╚██████╔╝██████╔╝███████╗
-╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
-```
+<!--
+**xnocode/xnocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Profile Views](https://komarev.com/ghpvc/?username=xnocode&style=for-the-badge&color=0f0f0f&label=VISITORS&abbreviated=true)
+Here are some ideas to get you started:
 
-</div>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
----
 
-```bash
-$ whoami
-> xnocode
-```
-
-> Tinkerer. Reader. Problem solver. Building things that (sometimes) work.  
-> Currently spending time in: **C++** · competitive programming · language design.
-
----
-
-### ⚡ This Week's Terminal
-
+📊 **This Week I Spent My Time On** 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2026 - To: 26 June 2026
+From: 17 June 2026 - To: 24 June 2026
 
-YAML         41 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.54 %
-Markdown     15 mins               ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.10 %
-Other        11 mins               ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.17 %
-TypeScript   10 mins               ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.38 %
-C++          2 mins                ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
----
-
-### 📊 Stats
+✨ Second Brain: https://xnocode.github.io/second_brain/ (website v4)
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xnocode/xnocode/output/github-stats.png">
@@ -51,55 +35,38 @@ C++          2 mins                ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
 </picture>
 
----
+ <!--
+### 📈 Coding profiles stats
+-->
 
-### 📚 Currently on the Shelf
+### 📖 The Reading Corner
 
 <details>
-<summary><code>▶ open shelf</code></summary>
+  <summary> ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა open shelf </summary>
 
-<br/>
-
-| | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://m.media-amazon.com/images/I/51CvWjB3EML._SY342_.jpg" width="80px"/><br/><sub>Duranta Eagle</sub> | <img src="https://m.media-amazon.com/images/I/61jl29eQPSL._SY425_.jpg" width="80px"/><br/><sub>Dracula</sub> | <img src="https://m.media-amazon.com/images/I/71YgZYaQGRL._SY466_.jpg" width="80px"/><br/><sub>The Mystery of Marie Rogêt</sub> | <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1633369977i/59177321.jpg" width="80px"/><br/><sub>The Philosophers' Stone</sub> | <img src="https://m.media-amazon.com/images/I/51xiB72JiHL._SY385_.jpg" width="80px"/><br/><sub>The Naval Treaty</sub> | <img src="https://m.media-amazon.com/images/I/51IWerpjMGL._SY466_.jpg" width="80px"/><br/><sub>Hamlet</sub> |
-| <img src="https://m.media-amazon.com/images/I/91kviUpWwNL._SY342_.jpg" width="80px"/><br/><sub>The Devil's Foot</sub> | <img src="https://m.media-amazon.com/images/I/61cDxGe2YUL._SY385_.jpg" width="80px"/><br/><sub>Crafting Interpreters</sub> | <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg" width="80px"/><br/><sub>The Alchemist</sub> | <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1697505457i/195336050.jpg" width="80px"/><br/><sub>Dark Psychology</sub> | | |
+  <table> 
+    <tr> 
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/51CvWjB3EML._SY342_.jpg" width="100px" alt=""/><br/> <sub>Duranta Eagle</sub> </td> 
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/61jl29eQPSL._SY425_.jpg" width="100px" alt=""/><br/> <sub>Dracula</sub> </td> 
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/71YgZYaQGRL._SY466_.jpg" width="100px" alt=""/><br/> <sub>The Mystery of Marie Rogêt</sub> </td> 
+      <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1633369977i/59177321.jpg" width="100px" alt=""/><br/> <sub>The Philosophers' Stone</sub> </td> 
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/51xiB72JiHL._SY385_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Naval Treaty</sub> </td>
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/51IWerpjMGL._SY466_.jpg" width="100px" alt=""/><br/> <sub>Hamlet</sub> </td>
+    </tr>
+    <tr>
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/91kviUpWwNL._SY342_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Devil's Foot</sub> </td>   
+      <td align="center"> <img src="https://m.media-amazon.com/images/I/61cDxGe2YUL._SY385_.jpg" width="100px" alt=""/><br/> <sub>Crafting Interpreters</sub> </td>
+      <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg" width="100px" alt=""/><br/> <sub>The Alchemist</sub> </td>
+      <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1697505457i/195336050.jpg" width="100px" alt=""/><br/> <sub>Dark Psychology & Mind Control</sub> </td>
+    </tr>
+  
+  </table>
 
 </details>
 
----
-
-### 🏆 Competitive Programming
-
 <details>
-<summary><code>▶ cp profiles</code></summary>
-
-<br/>
+  <summary> cp-profiles </summary>
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=xnocode&theme=github_dark&disable_animations=true&show_icons=true&force_username=true)](https://codeforces.com/profile/xnocode)
 
 </details>
-
----
-
-### 🧠 Second Brain
-
-> Personal knowledge base, notes, and ideas — publicly accessible.
-
-**→ [xnocode.github.io/second_brain](https://xnocode.github.io/second_brain/)** *(website v4)*
-
----
-
-<div align="center">
-
-<a href="https://www.supportkori.com/xnocode" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxduYsJpbiz8mSGpsaqEuP_DJg6uA5p-WIjUZ2-dczaw&s=10" alt="Buy Me A Coffee" height="36"/>
-</a>
-
-<br/><br/>
-
-```
-// always learning. always building.
-```
-
-</div>
