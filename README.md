@@ -1,33 +1,43 @@
-## Hi there 👋 
-![](https://komarev.com/ghpvc/?username=xnocode&abbreviated=true) 
+<div align="center">
 
-<!--
-**xnocode/xnocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+██╗  ██╗███╗   ██╗ ██████╗  ██████╗ ██████╗ ██████╗ ███████╗
+╚██╗██╔╝████╗  ██║██╔═══██╗██╔════╝██╔═══██╗██╔══██╗██╔════╝
+ ╚███╔╝ ██╔██╗ ██║██║   ██║██║     ██║   ██║██║  ██║█████╗  
+ ██╔██╗ ██║╚██╗██║██║   ██║██║     ██║   ██║██║  ██║██╔══╝  
+██╔╝ ██╗██║ ╚████║╚██████╔╝╚██████╗╚██████╔╝██████╔╝███████╗
+╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
+```
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=xnocode&style=for-the-badge&color=0f0f0f&label=VISITORS&abbreviated=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
+---
 
-📊 **This Week I Spent My Time On** 
+```bash
+$ whoami
+> xnocode
+```
+
+> Tinkerer. Reader. Problem solver. Building things that (sometimes) work.  
+> Currently spending time in: **C++** · competitive programming · language design.
+
+---
+
+### ⚡ This Week's Terminal
+
 <!--START_SECTION:waka-->
-
 ```txt
 From: 18 June 2026 - To: 25 June 2026
 
-C++   2 mins                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+C++   2 mins    ████████████████████████████████████   100.00%
 ```
-
 <!--END_SECTION:waka-->
-✨ Second Brain: https://xnocode.github.io/second_brain/ (website v4)
+
+---
+
+### 📊 Stats
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xnocode/xnocode/output/github-stats.png">
@@ -35,39 +45,55 @@ C++   2 mins                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
 </picture>
 
- <!--
-### 📈 Coding profiles stats
--->
+---
 
-### 📖 The Reading Corner
+### 📚 Currently on the Shelf
 
 <details>
-  <summary> ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა open shelf </summary>
+<summary><code>▶ open shelf</code></summary>
 
-  <table> 
-    <tr> 
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/51CvWjB3EML._SY342_.jpg" width="100px" alt=""/><br/> <sub>Duranta Eagle</sub> </td> 
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/61jl29eQPSL._SY425_.jpg" width="100px" alt=""/><br/> <sub>Dracula</sub> </td> 
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/71YgZYaQGRL._SY466_.jpg" width="100px" alt=""/><br/> <sub>The Mystery of Marie Rogêt</sub> </td> 
-      <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1633369977i/59177321.jpg" width="100px" alt=""/><br/> <sub>The Philosophers' Stone</sub> </td> 
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/51xiB72JiHL._SY385_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Naval Treaty</sub> </td>
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/51IWerpjMGL._SY466_.jpg" width="100px" alt=""/><br/> <sub>Hamlet</sub> </td>
-    </tr>
-    <tr>
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/91kviUpWwNL._SY342_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Devil's Foot</sub> </td>   
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/61cDxGe2YUL._SY385_.jpg" width="100px" alt=""/><br/> <sub>Crafting Interpreters</sub> </td>
-      <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg" width="100px" alt=""/><br/> <sub>The Alchemist</sub> </td>
-      <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1697505457i/195336050.jpg" width="100px" alt=""/><br/> <sub>Dark Psychology & Mind Control</sub> </td>
-    </tr>
-  
-  </table>
+<br/>
+
+| | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://m.media-amazon.com/images/I/51CvWjB3EML._SY342_.jpg" width="80px"/><br/><sub>Duranta Eagle</sub> | <img src="https://m.media-amazon.com/images/I/61jl29eQPSL._SY425_.jpg" width="80px"/><br/><sub>Dracula</sub> | <img src="https://m.media-amazon.com/images/I/71YgZYaQGRL._SY466_.jpg" width="80px"/><br/><sub>The Mystery of Marie Rogêt</sub> | <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1633369977i/59177321.jpg" width="80px"/><br/><sub>The Philosophers' Stone</sub> | <img src="https://m.media-amazon.com/images/I/51xiB72JiHL._SY385_.jpg" width="80px"/><br/><sub>The Naval Treaty</sub> | <img src="https://m.media-amazon.com/images/I/51IWerpjMGL._SY466_.jpg" width="80px"/><br/><sub>Hamlet</sub> |
+| <img src="https://m.media-amazon.com/images/I/91kviUpWwNL._SY342_.jpg" width="80px"/><br/><sub>The Devil's Foot</sub> | <img src="https://m.media-amazon.com/images/I/61cDxGe2YUL._SY385_.jpg" width="80px"/><br/><sub>Crafting Interpreters</sub> | <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg" width="80px"/><br/><sub>The Alchemist</sub> | <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1697505457i/195336050.jpg" width="80px"/><br/><sub>Dark Psychology</sub> | | |
 
 </details>
 
+---
+
+### 🏆 Competitive Programming
+
 <details>
-  <summary> cp-profiles </summary>
+<summary><code>▶ cp profiles</code></summary>
+
+<br/>
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=xnocode&theme=github_dark&disable_animations=true&show_icons=true&force_username=true)](https://codeforces.com/profile/xnocode)
 
 </details>
-<a href="https://www.supportkori.com/xnocode" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxduYsJpbiz8mSGpsaqEuP_DJg6uA5p-WIjUZ2-dczaw&s=10" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+---
+
+### 🧠 Second Brain
+
+> Personal knowledge base, notes, and ideas — publicly accessible.
+
+**→ [xnocode.github.io/second_brain](https://xnocode.github.io/second_brain/)** *(website v4)*
+
+---
+
+<div align="center">
+
+<a href="https://www.supportkori.com/xnocode" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxduYsJpbiz8mSGpsaqEuP_DJg6uA5p-WIjUZ2-dczaw&s=10" alt="Buy Me A Coffee" height="36"/>
+</a>
+
+<br/><br/>
+
+```
+// always learning. always building.
+```
+
+</div>
