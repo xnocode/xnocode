@@ -1,6 +1,8 @@
 ## Hi there 👋 
 ![](https://komarev.com/ghpvc/?username=xnocode&abbreviated=true) 
-
+[![Codeforces](https://badges.riever.dev/codeforces/xnocode.svg)](https://codeforces.com/profile/xnocode)
+[![AtCoder](https://badges.riever.dev/atcoder/xnocoder.svg)](https://atcoder.jp/users/xnocoder)
+![YukiCoder](https://cp-logo.vercel.app/yukicoder/xnocode)
 <!--
 **xnocode/xnocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -68,9 +70,3 @@ JSON         1 min                 ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 </details>
 
-<details>
-  <summary> cp-profiles </summary>
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=xnocode&theme=github_dark&disable_animations=true&show_icons=true&force_username=true)](https://codeforces.com/profile/xnocode)
-
-</details>
