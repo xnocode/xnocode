@@ -22,16 +22,16 @@ Bash         5 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <br/>
 
+### 🌱 My Garden
+
+> I maintain a personal website at **[gardenx.qzz.io](https://gardenx.qzz.io/)** where I write and publish my own notes, study logs, and thoughts, like a public personal diary.
+
 ### 🌐 CP Profiles
 <p align="center">
   <a href="https://codeforces.com/profile/xnocode"><img src="https://badges.riever.dev/codeforces/xnocode.svg" height="22" alt="Codeforces"/></a>&nbsp;
   <a href="https://atcoder.jp/users/xnocoder"><img src="https://badges.riever.dev/atcoder/xnocoder.svg" height="22" alt="AtCoder"/></a>&nbsp;
   <a href="https://yukicoder.me/"><img src="https://cp-logo.vercel.app/yukicoder/xnocode" height="22" alt="YukiCoder"/></a>
 </p>
-
-### 🌱 My Garden
-
-> I maintain a personal website at **[gardenx.qzz.io](https://gardenx.qzz.io/)** where I write and publish my own notes, study logs, and thoughts, like a public personal diary.
 
 ### 🛠️ Languages & Technologies
 
