@@ -1,34 +1,8 @@
-﻿<div align="center">
-  <img src="terminal.svg" width="55%" alt="xnocode Terminal" />
-</div>
-
-<br/>
-
-<!-- ══════════════════════  GITHUB STATS BADGES  ══════════════════════ -->
-<div align="center">
-
-  [![Profile Views](https://komarev.com/ghpvc/?username=xnocode&color=4A5568&style=flat-square&label=PROFILE+VIEWS)](https://github.com/xnocode)&nbsp;
-  [![GitHub Followers](https://img.shields.io/github/followers/xnocode?style=flat-square&color=4A5568&label=FOLLOWERS&logo=github)](https://github.com/xnocode?tab=followers)&nbsp;
-  [![GitHub Stars](https://img.shields.io/github/stars/xnocode?style=flat-square&color=4A5568&label=STARS&logo=github)](https://github.com/xnocode)&nbsp;
-  [![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/xnocode&query=public_repos&style=flat-square&color=4A5568&label=REPOS&logo=github)](https://github.com/xnocode?tab=repositories)
-
-</div>
-
-<br/>
-
-
-
-<!-- ══════════════════════  SECTION 01 · GITHUB STATISTICS  ══════════════════════ -->
-
-### 👾 GitHub Statistics
-
-<picture decoding="async" loading="lazy">
+﻿<picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xnocode/xnocode/output/github-stats.png">
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/xnocode/xnocode/output/github-stats-dark.png">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=false&theme=fuji&hide=avatar&dithering=true" width="100%">
 </picture>
-
-<!-- ══════════════════════  SECTION 05 · WEEKLY CODING ACTIVITY  ══════════════════════ -->
 
 ### 📊 Weekly Coding Activity
 
@@ -48,29 +22,16 @@ Bash         5 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <br/>
 
-<!-- ══════════════════════  SECTION 02 · CONNECT & PROFILES  ══════════════════════ -->
-
-### 🌐 Connect & Profiles
-
+### 🌐 CP Profiles
 <p align="center">
-  <a href="https://github.com/xnocode"><img src="https://img.shields.io/badge/GitHub-xnocode-4A5568?style=flat-square&logo=github&logoColor=white" height="22" alt="GitHub"/></a>&nbsp;
-  <a href="https://gardenx.qzz.io/"><img src="https://img.shields.io/badge/Digital%20Garden-gardenx.qzz.io-4A5568?style=flat-square&logo=gitbook&logoColor=white" height="22" alt="Digital Garden"/></a>&nbsp;
   <a href="https://codeforces.com/profile/xnocode"><img src="https://badges.riever.dev/codeforces/xnocode.svg" height="22" alt="Codeforces"/></a>&nbsp;
   <a href="https://atcoder.jp/users/xnocoder"><img src="https://badges.riever.dev/atcoder/xnocoder.svg" height="22" alt="AtCoder"/></a>&nbsp;
   <a href="https://yukicoder.me/"><img src="https://cp-logo.vercel.app/yukicoder/xnocode" height="22" alt="YukiCoder"/></a>
 </p>
 
-
-
-<!-- ══════════════════════  SECTION 03 · MY GARDEN  ══════════════════════ -->
-
 ### 🌱 My Garden
 
-> I maintain a personal website at **[gardenx.qzz.io](https://gardenx.qzz.io/)** where I write and publish my own notes, study logs, and thoughts — like a public personal diary.
-
-
-
-<!-- ══════════════════════  SECTION 04 · LANGUAGES & TECHNOLOGIES  ══════════════════════ -->
+> I maintain a personal website at **[gardenx.qzz.io](https://gardenx.qzz.io/)** where I write and publish my own notes, study logs, and thoughts, like a public personal diary.
 
 ### 🛠️ Languages & Technologies
 
@@ -81,12 +42,6 @@ Bash         5 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-
-
-
-
-<!-- ══════════════════════  SECTION 06 · THE READING CORNER  ══════════════════════ -->
 
 ### 📖 The Reading Corner
 
