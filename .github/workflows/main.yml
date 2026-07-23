@@ -19,6 +19,7 @@ jobs:
       - name: generate github stats card
         uses: LuciNyan/pixel-profile/action@main
         with:
+          github_token: ${{ secrets.GH_PAT }}
           outputs: |
             dist/github-stats?username=xnocode&screen_effect=true&theme=fuji&dithering=true&hide=avatar
             dist/github-stats-dark?username=xnocode&theme=crt
