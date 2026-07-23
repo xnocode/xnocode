@@ -1,10 +1,10 @@
-# 👋 Hi, I'm **xnocode**
+
 
 <div align="center">
-  <img src="terminal.svg" width="100%" alt="Arch Linux Terminal" />
+  <img src="terminal.svg" width="60%" alt="Arch Linux Terminal" />
 </div>
 
----
+
 
 ### 🌐 **Connect & Profiles**
 
@@ -16,7 +16,7 @@
   <a href="https://yukicoder.me/"><img src="https://cp-logo.vercel.app/yukicoder/xnocode" height="20" alt="YukiCoder"/></a>
 </p>
 
----
+
 
 ### 🛠️ **Languages & Technologies**
 
@@ -28,7 +28,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
+
 
 ### 📊 **Weekly Coding Activity**
 
@@ -46,7 +46,7 @@ Bash         5 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
----
+
 
 ### 👾 **GitHub Statistics**
 
@@ -56,7 +56,7 @@ Bash         5 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=false&theme=fuji&hide=avatar&dithering=true" width="100%">
 </picture>
 
----
+
 
 ### 📖 **The Reading Corner**
 
