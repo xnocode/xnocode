@@ -17,6 +17,12 @@
 </p>
 
 
+### 🌱 **My Garden**
+
+> I maintain a personal website at **[gardenx.qzz.io](https://gardenx.qzz.io/)** where I write and publish my own notes, study logs, and thoughts, like a public personal diary.
+
+
+
 
 ### 🛠️ **Languages & Technologies**
 
