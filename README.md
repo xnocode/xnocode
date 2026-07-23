@@ -1,25 +1,67 @@
-## Hi there 👋 
-![](https://komarev.com/ghpvc/?username=xnocode&abbreviated=true) 
-[![Codeforces](https://badges.riever.dev/codeforces/xnocode.svg)](https://codeforces.com/profile/xnocode)
-[![AtCoder](https://badges.riever.dev/atcoder/xnocoder.svg)](https://atcoder.jp/users/xnocoder)
-![YukiCoder](https://cp-logo.vercel.app/yukicoder/xnocode)
-<!--
-**xnocode/xnocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm **xnocode**
 
-Here are some ideas to get you started:
+<div align="center">
+  <svg width="100%" height="220" viewBox="0 0 600 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .header { fill: #2d3139; }
+      .body { fill: #181b20; }
+      .title { fill: #9da5b4; font-family: ui-monospace, SFMono-Regular, Consolas, 'Fira Code', monospace; font-size: 13px; }
+      .prompt { fill: #98c379; font-family: ui-monospace, SFMono-Regular, Consolas, 'Fira Code', monospace; font-size: 14px; font-weight: bold; }
+      .text { fill: #abb2bf; font-family: ui-monospace, SFMono-Regular, Consolas, 'Fira Code', monospace; font-size: 13px; }
+      .accent { fill: #61afef; font-family: ui-monospace, SFMono-Regular, Consolas, 'Fira Code', monospace; font-size: 13px; }
+      .icon { stroke: #abb2bf; stroke-width: 1.5; stroke-linecap: round; }
+      .cursor { fill: #61afef; }
+    </style>
+    <!-- Terminal Box -->
+    <rect width="600" height="220" rx="8" class="body" stroke="#3b4048" stroke-width="1.5"/>
+    <!-- Terminal Header Bar -->
+    <rect width="600" height="34" rx="8" class="header"/>
+    <rect y="20" width="600" height="14" class="header"/>
+    <!-- Title -->
+    <text x="20" y="22" class="title">Terminal - xnocode@archlinux:~</text>
+    <!-- Linux Window Controls (Minimize, Maximize, Close) -->
+    <line x1="520" y1="17" x2="530" y2="17" class="icon" />
+    <rect x="545" y="12" width="10" height="10" class="body" stroke="#abb2bf" stroke-width="1.5" rx="1"/>
+    <line x1="570" y1="12" x2="580" y2="22" class="icon" />
+    <line x1="580" y1="12" x2="570" y2="22" class="icon" />
+    <!-- Content Lines -->
+    <text x="20" y="65" class="prompt">xnocode@archlinux:~$ <tspan class="text">neofetch</tspan></text>
+    <text x="20" y="95" class="text">OS: <tspan class="accent">Arch Linux</tspan></text>
+    <text x="20" y="120" class="text">Role: <tspan class="accent">CS Student &amp; Competitive Programmer 🚀</tspan></text>
+    <text x="20" y="145" class="text">Garden: <tspan class="accent">https://gardenx.qzz.io/</tspan></text>
+    <text x="20" y="170" class="text">Status: <tspan class="accent">Exploring Algorithms, Systems &amp; Web</tspan></text>
+    <text x="20" y="198" class="prompt">xnocode@archlinux:~$ <tspan class="cursor">█</tspan></text>
+  </svg>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 🌐 **Connect & Profiles**
 
-📊 **This Week I Spent My Time On** 
+<p align="center">
+  <a href="https://github.com/xnocode"><img src="https://komarev.com/ghpvc/?username=xnocode&color=4A5568&style=flat-square&label=PROFILE+VIEWS" height="20" alt="Profile Views"/></a>
+  <a href="https://gardenx.qzz.io/"><img src="https://img.shields.io/badge/Digital%20Garden-gardenx.qzz.io-4A5568?style=flat-square&logo=gitbook&logoColor=white" height="20" alt="Digital Garden"/></a>
+  <a href="https://codeforces.com/profile/xnocode"><img src="https://badges.riever.dev/codeforces/xnocode.svg" height="20" alt="Codeforces"/></a>
+  <a href="https://atcoder.jp/users/xnocoder"><img src="https://badges.riever.dev/atcoder/xnocoder.svg" height="20" alt="AtCoder"/></a>
+  <a href="https://yukicoder.me/"><img src="https://cp-logo.vercel.app/yukicoder/xnocode" height="20" alt="YukiCoder"/></a>
+</p>
+
+---
+
+### 🛠️ **Languages & Technologies**
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+### 📊 **Weekly Coding Activity**
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -33,40 +75,34 @@ Bash         5 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-✨ garden: https://gardenx.qzz.io/ (website v2)
+
+---
+
+### 👾 **GitHub Statistics**
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xnocode/xnocode/output/github-stats.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xnocode/xnocode/output/github-stats-dark.png">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=false&theme=fuji&hide=avatar&dithering=true" width="100%">
 </picture>
 
- <!--
-### 📈 Coding profiles stats
--->
+---
 
-### 📖 The Reading Corner
+### 📖 **The Reading Corner**
 
-<details>
-  <summary> ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა open shelf </summary>
-
-  <table> 
-    <tr> 
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/51CvWjB3EML._SY342_.jpg" width="100px" alt=""/><br/> <sub>Duranta Eagle</sub> </td> 
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/61jl29eQPSL._SY425_.jpg" width="100px" alt=""/><br/> <sub>Dracula</sub> </td> 
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/71YgZYaQGRL._SY466_.jpg" width="100px" alt=""/><br/> <sub>The Mystery of Marie Rogêt</sub> </td> 
-      <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1633369977i/59177321.jpg" width="100px" alt=""/><br/> <sub>The Philosophers' Stone</sub> </td> 
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/51xiB72JiHL._SY385_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Naval Treaty</sub> </td>
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/51IWerpjMGL._SY466_.jpg" width="100px" alt=""/><br/> <sub>Hamlet</sub> </td>
-    </tr>
-    <tr>
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/91kviUpWwNL._SY342_.jpg" width="100px" alt=""/><br/> <sub>The Adventure of the Devil's Foot</sub> </td>   
-      <td align="center"> <img src="https://m.media-amazon.com/images/I/61cDxGe2YUL._SY385_.jpg" width="100px" alt=""/><br/> <sub>Crafting Interpreters</sub> </td>
-      <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg" width="100px" alt=""/><br/> <sub>The Alchemist</sub> </td>
-      <td align="center"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1697505457i/195336050.jpg" width="100px" alt=""/><br/> <sub>Dark Psychology & Mind Control</sub> </td>
-    </tr>
-  
-  </table>
-
-</details>
-
+<table align="center"> 
+  <tr> 
+    <td align="center" width="110"> <img src="https://m.media-amazon.com/images/I/51CvWjB3EML._SY342_.jpg" width="90" alt="Duranta Eagle"/><br/><sub><b>Duranta Eagle</b></sub> </td> 
+    <td align="center" width="110"> <img src="https://m.media-amazon.com/images/I/61jl29eQPSL._SY425_.jpg" width="90" alt="Dracula"/><br/><sub><b>Dracula</b></sub> </td> 
+    <td align="center" width="110"> <img src="https://m.media-amazon.com/images/I/71YgZYaQGRL._SY466_.jpg" width="90" alt="The Mystery of Marie Rogêt"/><br/><sub><b>The Mystery of Marie Rogêt</b></sub> </td> 
+    <td align="center" width="110"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1633369977i/59177321.jpg" width="90" alt="The Philosophers' Stone"/><br/><sub><b>The Philosophers' Stone</b></sub> </td> 
+    <td align="center" width="110"> <img src="https://m.media-amazon.com/images/I/51xiB72JiHL._SY385_.jpg" width="90" alt="The Adventure of the Naval Treaty"/><br/><sub><b>The Adventure of the Naval Treaty</b></sub> </td>
+  </tr>
+  <tr>
+    <td align="center" width="110"> <img src="https://m.media-amazon.com/images/I/51IWerpjMGL._SY466_.jpg" width="90" alt="Hamlet"/><br/><sub><b>Hamlet</b></sub> </td>
+    <td align="center" width="110"> <img src="https://m.media-amazon.com/images/I/91kviUpWwNL._SY342_.jpg" width="90" alt="The Adventure of the Devil's Foot"/><br/><sub><b>The Adventure of the Devil's Foot</b></sub> </td>   
+    <td align="center" width="110"> <img src="https://m.media-amazon.com/images/I/61cDxGe2YUL._SY385_.jpg" width="90" alt="Crafting Interpreters"/><br/><sub><b>Crafting Interpreters</b></sub> </td>
+    <td align="center" width="110"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg" width="90" alt="The Alchemist"/><br/><sub><b>The Alchemist</b></sub> </td>
+    <td align="center" width="110"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1697505457i/195336050.jpg" width="90" alt="Dark Psychology & Mind Control"/><br/><sub><b>Dark Psychology & Mind Control</b></sub> </td>
+  </tr>
+</table>
