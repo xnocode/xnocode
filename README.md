@@ -1,4 +1,4 @@
-﻿<picture decoding="async" loading="lazy">
+<picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xnocode/xnocode/output/github-stats.png">
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/xnocode/xnocode/output/github-stats-dark.png">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=xnocode&screen_effect=false&theme=fuji&hide=avatar&dithering=true" width="100%">
@@ -59,6 +59,9 @@ Bash         5 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <td align="center" width="110"> <img src="https://m.media-amazon.com/images/I/61cDxGe2YUL._SY385_.jpg" width="90" alt="Crafting Interpreters"/><br/><sub><b>Crafting Interpreters</b></sub> </td>
     <td align="center" width="110"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg" width="90" alt="The Alchemist"/><br/><sub><b>The Alchemist</b></sub> </td>
     <td align="center" width="110"> <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1697505457i/195336050.jpg" width="90" alt="Dark Psychology and Mind Control"/><br/><sub><b>Dark Psychology and Mind Control</b></sub> </td>
+  </tr>
+  <tr>
+    <td align="center" width="110"> <img src="https://m.media-amazon.com/images/I/61p6H5IXkSL._SY466_.jpg" width="90" alt="Flow: The Psychology of Optimal Experience"/><br/><sub><b>Flow</b></sub> </td>
   </tr>
 </table>
 
